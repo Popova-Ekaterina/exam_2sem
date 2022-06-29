@@ -1,0 +1,26 @@
+{
+    "name": "rk_var10",
+    "version": "1.0.0",
+    "description": "",
+    "main": "js.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Popova-Ekaterina/RK_var10.git"
+    },
+    "author": "Popova",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Popova-Ekaterina/RK_var10/issues"
+    },
+    "homepage": "https://github.com/aleeeeeexx/RK_var10#readme",
+    "dependencies": {
+        "@supabase/supabase-js": "^1.35.4",
+        "dotenv": "^16.0.1",
+        "express": "^4.18.1",
+        "nodemon": "^2.0.18"
+    }
+}
